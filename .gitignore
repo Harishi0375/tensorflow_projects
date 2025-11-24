@@ -1,7 +1,11 @@
 *.csv
 *.zip
+*.pdf
+*.pth
 
 Car_brand_logos/archive
+
+notes
 
 Handwriting_recognition
 
